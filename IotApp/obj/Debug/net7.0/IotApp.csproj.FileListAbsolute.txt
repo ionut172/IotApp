@@ -1,4 +1,3 @@
-/Users/ionutgabriel/Projects/IotApp/IotApp/bin/Debug/net7.0/appsettings.Development.json
 /Users/ionutgabriel/Projects/IotApp/IotApp/bin/Debug/net7.0/appsettings.json
 /Users/ionutgabriel/Projects/IotApp/IotApp/bin/Debug/net7.0/IotApp.staticwebassets.runtime.json
 /Users/ionutgabriel/Projects/IotApp/IotApp/bin/Debug/net7.0/IotApp
@@ -117,5 +116,5 @@
 /Users/ionutgabriel/Projects/IotApp/IotApp/obj/Debug/net7.0/scopedcss/Views/Devices/Edit.cshtml.rz.scp.css
 /Users/ionutgabriel/Projects/IotApp/IotApp/obj/Debug/net7.0/scopedcss/Views/Devices/Index.cshtml.rz.scp.css
 /Users/ionutgabriel/Projects/IotApp/IotApp/bin/Debug/net7.0/libman.json
-/Users/ionutgabriel/Projects/IotApp/IotApp/bin/Debug/net7.0/appsettings.Production.json
 /Users/ionutgabriel/Projects/IotApp/IotApp/bin/Debug/net7.0/appsettings.Local.json
+/Users/ionutgabriel/Projects/IotApp/IotApp/bin/Debug/net7.0/appsettings.Production.json
