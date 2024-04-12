@@ -16,7 +16,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
 builder.Services.AddControllersWithViews();
 
 // Configure Kestrel to listen on all interfaces
-builder.WebHost.UseUrls("http://*:80");
+builder.WebHost.UseUrls("http://*:5263");
 
 var app = builder.Build();
 
