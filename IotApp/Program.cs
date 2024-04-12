@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using IotApp.Data;
 
@@ -14,6 +14,9 @@ builder.Services.AddScoped<ApplicationDbContext>();
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
+
+// Configure Kestrel to listen on all interfaces
+builder.WebHost.UseUrls("http://*:5263");
 
 var app = builder.Build();
 
@@ -42,4 +45,3 @@ app.MapControllerRoute(
 app.MapRazorPages();
 
 app.Run();
-
