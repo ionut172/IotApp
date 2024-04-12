@@ -1,0 +1,26 @@
+
+/* Stilizare pentru tabel */
+.table th[b-gxw3qcp9yd],
+.table td[b-gxw3qcp9yd] {
+    vertical-align: middle; /* Aliniere verticală centrală pentru conținutul celulelor */
+}
+
+/* Stilizare pentru butoanele de acțiuni */
+.action-links a[b-gxw3qcp9yd] {
+    margin-right: 5px; /* Spațiu între butoane */
+}
+
+/* Efect de fade-in pentru tabel */
+@keyframes fadeIn-b-gxw3qcp9yd {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+table[b-gxw3qcp9yd] {
+    animation: fadeIn-b-gxw3qcp9yd 1s ease-in-out;
+}

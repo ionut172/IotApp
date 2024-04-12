@@ -1,0 +1,42 @@
+@keyframes fadeInUp-b-ks48ruhazp {
+    from {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+
+    to {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+.animated[b-ks48ruhazp] {
+    animation-duration: 0.6s;
+    animation-fill-mode: both;
+}
+
+    .animated.fadeInUp[b-ks48ruhazp] {
+        animation-name: fadeInUp-b-ks48ruhazp;
+    }
+
+/* Enhance the visual hierarchy */
+.form-control[b-ks48ruhazp] {
+    border-radius: 0.375rem;
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+}
+
+.btn-primary[b-ks48ruhazp] {
+    background-color: #007bff;
+    border-color: #007bff;
+    box-shadow: 0 2px 4px rgba(0, 123, 255, 0.3);
+}
+
+.btn-secondary[b-ks48ruhazp] {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.action-links a[b-ks48ruhazp] {
+    margin-right: 5px; /* Spațiu între butoane */
+}

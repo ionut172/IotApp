@@ -1,0 +1,227 @@
+/* _content/IotApp/Views/Devices/Create.cshtml.rz.scp.css */
+@keyframes fadeInUp-b-s35e9jgf41 {
+    from {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+
+    to {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+.animated[b-s35e9jgf41] {
+    animation-duration: 0.6s;
+    animation-fill-mode: both;
+}
+
+.action-links a[b-s35e9jgf41] {
+    margin-right: 5px; /* Spațiu între butoane */
+}
+
+.animated.fadeInUp[b-s35e9jgf41] {
+    animation-name: fadeInUp-b-s35e9jgf41;
+}
+
+/* Enhance the visual hierarchy */
+.form-control[b-s35e9jgf41] {
+    border-radius: 0.375rem;
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+}
+
+.btn-primary[b-s35e9jgf41] {
+    background-color: #007bff;
+    border-color: #007bff;
+    box-shadow: 0 2px 4px rgba(0, 123, 255, 0.3);
+}
+
+.btn-secondary[b-s35e9jgf41] {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+/* _content/IotApp/Views/Devices/Delete.cshtml.rz.scp.css */
+
+.delete-confirmation[b-or2gen2op9] {
+    max-width: 600px;
+    margin: auto;
+    padding: 2rem;
+    background-color: #fff;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+    .delete-confirmation h4[b-or2gen2op9] {
+        margin-top: 0;
+    }
+
+.btn-cancel[b-or2gen2op9] {
+    margin-left: 10px;
+}
+
+.action-links a[b-or2gen2op9] {
+    margin-right: 5px; /* Spațiu între butoane */
+}
+/* _content/IotApp/Views/Devices/Details.cshtml.rz.scp.css */
+@keyframes fadeInUp-b-ks48ruhazp {
+    from {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+
+    to {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+.animated[b-ks48ruhazp] {
+    animation-duration: 0.6s;
+    animation-fill-mode: both;
+}
+
+    .animated.fadeInUp[b-ks48ruhazp] {
+        animation-name: fadeInUp-b-ks48ruhazp;
+    }
+
+/* Enhance the visual hierarchy */
+.form-control[b-ks48ruhazp] {
+    border-radius: 0.375rem;
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+}
+
+.btn-primary[b-ks48ruhazp] {
+    background-color: #007bff;
+    border-color: #007bff;
+    box-shadow: 0 2px 4px rgba(0, 123, 255, 0.3);
+}
+
+.btn-secondary[b-ks48ruhazp] {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.action-links a[b-ks48ruhazp] {
+    margin-right: 5px; /* Spațiu între butoane */
+}
+/* _content/IotApp/Views/Devices/Edit.cshtml.rz.scp.css */
+@keyframes fadeInUp-b-3wnm1963zm {
+    from {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+
+    to {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+.animated[b-3wnm1963zm] {
+    animation-duration: 0.6s;
+    animation-fill-mode: both;
+}
+
+    .animated.fadeInUp[b-3wnm1963zm] {
+        animation-name: fadeInUp-b-3wnm1963zm;
+    }
+
+/* Enhance the visual hierarchy */
+.form-control[b-3wnm1963zm] {
+    border-radius: 0.375rem;
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+}
+
+.btn-primary[b-3wnm1963zm] {
+    background-color: #007bff;
+    border-color: #007bff;
+    box-shadow: 0 2px 4px rgba(0, 123, 255, 0.3);
+}
+
+.btn-secondary[b-3wnm1963zm] {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.action-links a[b-3wnm1963zm] {
+    margin-right: 5px; /* Spațiu între butoane */
+}
+/* _content/IotApp/Views/Devices/Index.cshtml.rz.scp.css */
+
+/* Stilizare pentru tabel */
+.table th[b-gxw3qcp9yd],
+.table td[b-gxw3qcp9yd] {
+    vertical-align: middle; /* Aliniere verticală centrală pentru conținutul celulelor */
+}
+
+/* Stilizare pentru butoanele de acțiuni */
+.action-links a[b-gxw3qcp9yd] {
+    margin-right: 5px; /* Spațiu între butoane */
+}
+
+/* Efect de fade-in pentru tabel */
+@keyframes fadeIn-b-gxw3qcp9yd {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+table[b-gxw3qcp9yd] {
+    animation: fadeIn-b-gxw3qcp9yd 1s ease-in-out;
+}
+/* _content/IotApp/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-3lx9439byg] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-3lx9439byg] {
+  color: #0077cc;
+}
+
+.btn-primary[b-3lx9439byg] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-3lx9439byg], .nav-pills .show > .nav-link[b-3lx9439byg] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-3lx9439byg] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-3lx9439byg] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-3lx9439byg] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-3lx9439byg] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-3lx9439byg] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+

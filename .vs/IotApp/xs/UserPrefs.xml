@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{3BC4B11F-3A8C-4696-8BDD-A2B4E0A8EBB0}|https" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IotApp/docker-compose.yml">
+    <Files>
+      <File FileName="IotApp/Data/ApplicationDbContext.cs" Line="1" Column="1" />
+      <File FileName="IotApp/Data/Migrations/ApplicationDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="IotApp/Data/Migrations/00000000000000_CreateIdentitySchema.cs" Line="1" Column="1" />
+      <File FileName="IotApp/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="IotApp/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="IotApp/app.db" />
+      <File FileName="IotApp/app.db-wal" />
+      <File FileName="IotApp/appsettings.json" Line="1" Column="1" />
+      <File FileName="IotApp/Program.cs" Line="1" Column="1" />
+      <File FileName="IotApp/docker-compose.yml" Line="6" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IotApp" expanded="True">
+            <Node name="IotApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="docker-compose.yml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.IotApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

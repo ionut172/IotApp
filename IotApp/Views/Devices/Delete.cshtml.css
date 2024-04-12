@@ -1,0 +1,20 @@
+﻿
+.delete-confirmation {
+    max-width: 600px;
+    margin: auto;
+    padding: 2rem;
+    background-color: #fff;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+    .delete-confirmation h4 {
+        margin-top: 0;
+    }
+
+.btn-cancel {
+    margin-left: 10px;
+}
+
+.action-links a {
+    margin-right: 5px; /* Spațiu între butoane */
+}
