@@ -20,7 +20,7 @@
         "https": {
             "commandName": "Project",
             "launchBrowser": true,
-            "applicationUrl": "https://*:7115;http://*:5263",
+            "applicationUrl": "https://*:7115;http://*:5264",
             "environmentVariables": {
                 "ASPNETCORE_ENVIRONMENT": "Production"
             },
